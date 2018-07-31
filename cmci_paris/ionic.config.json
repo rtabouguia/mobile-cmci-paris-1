@@ -1,0 +1,8 @@
+{
+  "name": "cmci_paris",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
